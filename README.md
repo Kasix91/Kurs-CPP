@@ -38,7 +38,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] Dla zapaleńców: spróbuj samemu spróbować ustawić CI do programu Hello World z naszych zajęć. Spraw, aby GitHub sam budował cały projekt i mówił, czy czasem nie został scommitowany kod, który się nie kompiluje. Pokaż, że to działa spróbując komitować kod, który faktycznie się nie kompiluje, ale oczywiście potem wycofaj te zmiany za pomocą git revert. Możesz do tego użyć TravisCI albo CircleCI. Przydatne linki: [Integrate Travis CI with your GitHub repo](https://github.com/mbonaci/mbo-storm/wiki/Integrate-Travis-CI-with-your-GitHub-repo) [YouTube - How to start using Travis CI with your GitHub hosted code in 5 minutes](https://www.youtube.com/watch?v=FEXY1ZP-sBs)
 
 ### Pre-work for the next lesson
-- [ ] Zapoznaj się pobieżnie ze [standardem kodowania Google](https://google.github.io/styleguide/cppguide.html) oraz [standardem kodowania LLVM](https://llvm.org/docs/CodingStandards.html). Możesz je porównać i wychwycić podobieństwa i różnice.
+- [x] Zapoznaj się pobieżnie ze [standardem kodowania Google](https://google.github.io/styleguide/cppguide.html) oraz [standardem kodowania LLVM](https://llvm.org/docs/CodingStandards.html). Możesz je porównać i wychwycić podobieństwa i różnice.
 - [ ] Poszukaj samemu informacji o tym, czym jest Makefile
 - [ ] Poszukaj samemu informacji o tym, czym jest Scrum
-- [ ] Koniecznie utwórz Pull Requesta (PR), aby powiadomić mnie o statusie Twojej pracy domowej, najlepiej gdy wykonasz wszystko. PR możesz potem aktualizować.
+- [x] Koniecznie utwórz Pull Requesta (PR), aby powiadomić mnie o statusie Twojej pracy domowej, najlepiej gdy wykonasz wszystko. PR możesz potem aktualizować.
