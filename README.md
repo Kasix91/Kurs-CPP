@@ -39,6 +39,6 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 ### Pre-work for the next lesson
 - [x] Zapoznaj się pobieżnie ze [standardem kodowania Google](https://google.github.io/styleguide/cppguide.html) oraz [standardem kodowania LLVM](https://llvm.org/docs/CodingStandards.html). Możesz je porównać i wychwycić podobieństwa i różnice.
-- [ ] Poszukaj samemu informacji o tym, czym jest Makefile
+- [x] Poszukaj samemu informacji o tym, czym jest Makefile
 - [x] Poszukaj samemu informacji o tym, czym jest Scrum
 - [x] Koniecznie utwórz Pull Requesta (PR), aby powiadomić mnie o statusie Twojej pracy domowej, najlepiej gdy wykonasz wszystko. PR możesz potem aktualizować.
