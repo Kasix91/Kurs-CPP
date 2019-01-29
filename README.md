@@ -61,8 +61,8 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   Program będzie dalej rozwijany w przyszłości. Teraz najważniejsze będzie zorganizowanie się, podzielenie pracy i commitowanie do wspólnego repozytorium
   Pamiętajcie o [MVP (Minimal Viable Product)](https://goo.gl/images/D3Jeam)
   **Podajcie linka do projektu na Discordzie, ale już w momencie jego utworzenia, a nie ukończenia!**
-- [ ] Zrób ściągawkę na jeden z poniższych tematów do wyboru. Obowiązkowo daj w niej przykłady kodu:
-  - stos i sterta
+- [x] Zrób ściągawkę na jeden z poniższych tematów do wyboru. Obowiązkowo daj w niej przykłady kodu:
+  - **stos i sterta**
   - przekazywanie parametrów - kopia, wskaźnik, referencja
   - konwersje jawne i niejasne, operatory konwersji, konstruktory konwertujące, rodzaje konwersji (static, dynamic, const, reinterpret, C-style)
   - operatory (porównania, strumienia, arytmetyczne, ...)
